@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0maddox
+- 👋 Hi, I’m nick
 - 👀 I’m interested in game dev
 - 🌱 I’m currently learning ruby
 - 💞️ I’m looking to collaborate on projects
